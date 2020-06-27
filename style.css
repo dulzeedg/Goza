@@ -1,0 +1,61 @@
+#profile   {
+  background-color: teal;
+  color: lightseagreen;
+  font-size: 20px;
+  /* font-family: museo-sans-100; */
+  font-family: sans-serif;
+}
+
+div,#p {
+  text-align: center;
+}
+
+.details, .col-md-4, .col-md-8 {
+  text-align: left;
+}
+
+h2,.btn-outline-light,.nav-link,.navbar-brand {
+  color: lightseagreen;
+}
+
+footer{
+  color: lightseagreen;
+  background-color: teal;
+  text-align: center;
+}
+
+.btn-outline-light:hover {
+  background-color: teal;
+  color: darkseagreen;
+}
+
+a {
+  color: lightseagreen;
+}
+
+.img {
+  text-align: center;
+}
+a:hover,.nav-link:hover,.navbar-brand:hover{
+  color: darkseagreen;
+}
+
+.nav-link:active {
+  color: darkseagreen;
+}
+
+hr   {
+  border-top: 5px dotted;
+  color: lightseagreen
+}
+
+.breaker  {
+  text-align: center;
+  width: 150px;
+}
+
+img {
+  border-radius: 300px;
+  height:300px;
+  width: 300px;
+}
