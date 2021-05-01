@@ -25,12 +25,6 @@ export default function ButtonAppBar() {
                         <Link>
                             <Button>About</Button>
                         </Link>
-                        <Link>
-                            <Button>Tech Stack</Button>
-                        </Link>
-                        <Link>
-                            <Button>Projects</Button>
-                        </Link>
                     </ButtonGroup>
                 </Toolbar>
             </Appbar>

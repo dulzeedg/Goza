@@ -1,4 +1,4 @@
-// the layout component servers as a container acrosss all pages of the application
+// the layout component serves as a container acrosss all pages of the application
 import React from 'react';
 import { Box, Container } from '@material-ui/core';
 import { Fragment } from 'react';

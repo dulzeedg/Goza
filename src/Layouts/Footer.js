@@ -17,12 +17,9 @@ export default function Footer() {
         >
           MightyBit
         </Link>
-        . 2020  
+        . 2021  
         <TwitterIcon color="primary" />
         <GitHubIcon color="primary"/>
-      </Typography>
-      <Typography variant="caption">
-        fgdhjkl
       </Typography>
     </Grid>
   );

@@ -17,25 +17,11 @@ export default function About() {
 
     return(
         <Grid item xs={12}>
-            <OwlCarousel>
-                <Grid>
-                    <Paper className={classes.paper}>
-                        <Typography variant="body2">
-                            body2. Lorem ipsum dolor 
-                            sit amet, consectetur adipisicing 
-                            elit. Quos blanditiis tenetur
-                            body2. Lorem ipsum dolor 
-                            sit amet, consectetur adipisicing 
-                            elit. Quos blanditiis tenetur
-                        </Typography>
-                    </Paper>
-                </Grid>
-            </OwlCarousel>
             <Grid>
-                <Typography variant="h3">Our Services</Typography>
+                <Typography variant="h3">About</Typography>
                 <Paper className={classes.paper}>
                     <Typography variant="h5" >
-                            dgfhjk
+                            Technologies used
                         </Typography>
                         <Typography variant="body2">
                             body2. Lorem ipsum dolor 
@@ -49,7 +35,7 @@ export default function About() {
                 </Paper>
                 <Paper className={classes.paper}>
                     <Typography variant="h5" >
-                        dgfhjk
+                        Features
                     </Typography>
                     <Typography variant="body2">
                         body2. Lorem ipsum dolor 
@@ -60,21 +46,6 @@ export default function About() {
                         elit. Quos blanditiis tenetur
                     </Typography>
                 </Paper>
-                <Card>
-                    <CardContent>
-                        <Typography variant="h5" >
-                            dgfhjk
-                        </Typography>
-                        <Typography variant="body2">
-                            body2. Lorem ipsum dolor 
-                            sit amet, consectetur adipisicing 
-                            elit. Quos blanditiis tenetur
-                            body2. Lorem ipsum dolor 
-                            sit amet, consectetur adipisicing 
-                            elit. Quos blanditiis tenetur
-                        </Typography>
-                    </CardContent>
-                </Card>
             </Grid>
         </Grid>
     )
